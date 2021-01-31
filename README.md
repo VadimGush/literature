@@ -12,3 +12,5 @@
     **ISBN:** 978-1-491-90399-5
  6. "The C++ Programming Language" - Bjarne Stroustrup  
     **ISBN:** 978-0-321-56384-2
+ 7. "Assembly Programming and Computer Architecture for Software Engineers" - Brian R. Hall, Kevin J. Slonka  
+    **ISBN:** 978-1-943153-31-2, 978-1-943153-32-9
